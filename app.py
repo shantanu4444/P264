@@ -1,7 +1,7 @@
 # Import Libraries below
 import os
 from flask import  Flask, request, redirect, url_for, render_template
-import cv2 as Opencv 
+#import cv2 as Opencv 
 from werkzeug.utils import secure_filename 
 # Define flask 
 app = Flask(__name__)
